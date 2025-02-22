@@ -15,7 +15,7 @@ exports[`<RoomSummaryCard /> has button to edit topic 1`] = `
         class="mx_BaseCard_header_spacer"
       />
       <button
-        aria-labelledby="floating-ui-20"
+        aria-labelledby=":rm:"
         class="_icon-button_bh2qc_17 _subtle-bg_bh2qc_38"
         data-testid="base-card-close-button"
         role="button"
@@ -135,8 +135,9 @@ exports[`<RoomSummaryCard /> has button to edit topic 1`] = `
             style="--mx-box-flex: 1;"
           >
             <a
-              class="_link_1mzip_17"
+              class="_link_ue21z_17"
               data-kind="primary"
+              data-size="medium"
               rel="noreferrer noopener"
             >
               <p
@@ -188,7 +189,7 @@ exports[`<RoomSummaryCard /> has button to edit topic 1`] = `
             <input
               aria-hidden="true"
               class="_input_qnvru_32"
-              id=":r3:"
+              id=":rr:"
               type="checkbox"
             />
             <div
@@ -669,7 +670,7 @@ exports[`<RoomSummaryCard /> renders the room summary 1`] = `
         class="mx_BaseCard_header_spacer"
       />
       <button
-        aria-labelledby="floating-ui-1"
+        aria-labelledby=":r0:"
         class="_icon-button_bh2qc_17 _subtle-bg_bh2qc_38"
         data-testid="base-card-close-button"
         role="button"
@@ -752,8 +753,9 @@ exports[`<RoomSummaryCard /> renders the room summary 1`] = `
             style="--mx-box-flex: 1;"
           >
             <a
-              class="_link_1mzip_17"
+              class="_link_ue21z_17"
               data-kind="primary"
+              data-size="medium"
               rel="noreferrer noopener"
             >
               <p
@@ -805,7 +807,7 @@ exports[`<RoomSummaryCard /> renders the room summary 1`] = `
             <input
               aria-hidden="true"
               class="_input_qnvru_32"
-              id=":r1:"
+              id=":r5:"
               type="checkbox"
             />
             <div
@@ -1286,7 +1288,7 @@ exports[`<RoomSummaryCard /> renders the room topic in the summary 1`] = `
         class="mx_BaseCard_header_spacer"
       />
       <button
-        aria-labelledby="floating-ui-10"
+        aria-labelledby=":rb:"
         class="_icon-button_bh2qc_17 _subtle-bg_bh2qc_38"
         data-testid="base-card-close-button"
         role="button"
@@ -1406,8 +1408,9 @@ exports[`<RoomSummaryCard /> renders the room topic in the summary 1`] = `
             style="--mx-box-flex: 1;"
           >
             <a
-              class="_link_1mzip_17"
+              class="_link_ue21z_17"
               data-kind="primary"
+              data-size="medium"
               rel="noreferrer noopener"
             >
               <p
@@ -1459,7 +1462,7 @@ exports[`<RoomSummaryCard /> renders the room topic in the summary 1`] = `
             <input
               aria-hidden="true"
               class="_input_qnvru_32"
-              id=":r2:"
+              id=":rg:"
               type="checkbox"
             />
             <div

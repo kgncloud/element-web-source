@@ -10,7 +10,7 @@ exports[`<LayoutSwitcher /> should render 1`] = `
       class="mx_SettingsSubsectionHeading"
     >
       <h3
-        class="mx_Heading_h3 mx_SettingsSubsectionHeading_heading"
+        class="mx_Heading_h4 mx_SettingsSubsectionHeading_heading"
       >
         Message layout
       </h3>
@@ -19,15 +19,15 @@ exports[`<LayoutSwitcher /> should render 1`] = `
       class="mx_SettingsSubsection_content mx_SettingsSubsection_content_newUi"
     >
       <form
-        class="_root_dgy0u_24 mx_LayoutSwitcher_LayoutSelector"
+        class="_root_ssths_24 mx_LayoutSwitcher_LayoutSelector"
       >
         <div
-          class="_field_dgy0u_34 mxLayoutSwitcher_LayoutSelector_LayoutRadio"
+          class="_field_ssths_34 mxLayoutSwitcher_LayoutSelector_LayoutRadio"
         >
           <label
             aria-label="Modern"
-            class="_label_dgy0u_67"
-            for="radix-0"
+            class="_label_ssths_67"
+            for="radix-:r0:"
           >
             <div
               class="mxLayoutSwitcher_LayoutSelector_LayoutRadio_inline"
@@ -38,7 +38,7 @@ exports[`<LayoutSwitcher /> should render 1`] = `
                 <input
                   checked=""
                   class="_input_1vw5h_26"
-                  id="radix-0"
+                  id="radix-:r0:"
                   name="layout"
                   title=""
                   type="radio"
@@ -149,12 +149,12 @@ exports[`<LayoutSwitcher /> should render 1`] = `
           </label>
         </div>
         <div
-          class="_field_dgy0u_34 mxLayoutSwitcher_LayoutSelector_LayoutRadio"
+          class="_field_ssths_34 mxLayoutSwitcher_LayoutSelector_LayoutRadio"
         >
           <label
             aria-label="Message bubbles"
-            class="_label_dgy0u_67"
-            for="radix-1"
+            class="_label_ssths_67"
+            for="radix-:r9:"
           >
             <div
               class="mxLayoutSwitcher_LayoutSelector_LayoutRadio_inline"
@@ -164,7 +164,7 @@ exports[`<LayoutSwitcher /> should render 1`] = `
               >
                 <input
                   class="_input_1vw5h_26"
-                  id="radix-1"
+                  id="radix-:r9:"
                   name="layout"
                   title=""
                   type="radio"
@@ -275,12 +275,12 @@ exports[`<LayoutSwitcher /> should render 1`] = `
           </label>
         </div>
         <div
-          class="_field_dgy0u_34 mxLayoutSwitcher_LayoutSelector_LayoutRadio"
+          class="_field_ssths_34 mxLayoutSwitcher_LayoutSelector_LayoutRadio"
         >
           <label
             aria-label="IRC (experimental)"
-            class="_label_dgy0u_67"
-            for="radix-2"
+            class="_label_ssths_67"
+            for="radix-:ri:"
           >
             <div
               class="mxLayoutSwitcher_LayoutSelector_LayoutRadio_inline"
@@ -290,7 +290,7 @@ exports[`<LayoutSwitcher /> should render 1`] = `
               >
                 <input
                   class="_input_1vw5h_26"
-                  id="radix-2"
+                  id="radix-:ri:"
                   name="layout"
                   title=""
                   type="radio"
@@ -402,21 +402,21 @@ exports[`<LayoutSwitcher /> should render 1`] = `
         </div>
       </form>
       <form
-        class="_root_dgy0u_24"
+        class="_root_ssths_24"
       >
         <div
-          class="_inline-field_dgy0u_40"
+          class="_inline-field_ssths_40"
         >
           <div
-            class="_inline-field-control_dgy0u_52"
+            class="_inline-field-control_ssths_52"
           >
             <div
               class="_container_qnvru_18"
             >
               <input
-                aria-describedby="radix-3"
+                aria-describedby="radix-:rs:"
                 class="_input_qnvru_32"
-                id="radix-4"
+                id="radix-:rr:"
                 name="compactLayout"
                 title=""
                 type="checkbox"
@@ -427,17 +427,17 @@ exports[`<LayoutSwitcher /> should render 1`] = `
             </div>
           </div>
           <div
-            class="_inline-field-body_dgy0u_46"
+            class="_inline-field-body_ssths_46"
           >
             <label
-              class="_label_dgy0u_67"
-              for="radix-4"
+              class="_label_ssths_67"
+              for="radix-:rr:"
             >
               Show compact text and messages
             </label>
             <span
-              class="_message_dgy0u_98 _help-message_dgy0u_104"
-              id="radix-3"
+              class="_message_ssths_93 _help-message_ssths_99"
+              id="radix-:rs:"
             >
               Modern layout must be selected to use this feature.
             </span>
